@@ -1,0 +1,23 @@
+commit 070243ea53edcc6bac9aec18a1048e43772dcaf2
+Author: momomore <15737492973@163.com>
+Date:   Sun May 10 15:39:56 2020 +0800
+
+    modified gitignore
+
+commit 01593d3ee4039503686260bcca765abe4d30765c
+Author: momomore <15737492973@163.com>
+Date:   Sun May 10 15:33:45 2020 +0800
+
+    added gitignore
+
+commit bc50628ab35ebbeac762a9130a5b760d01808bae
+Author: momomore <15737492973@163.com>
+Date:   Fri May 8 00:12:14 2020 +0800
+
+    added two files
+
+commit 28afc868ad8914043e8f39ba9de3e0650e43db9a
+Author: momomore <15737492973@163.com>
+Date:   Fri May 8 00:03:24 2020 +0800
+
+    added readme.txt
